@@ -1,0 +1,5 @@
+{
+  "name": "AI Search Comparator",
+  "description": "Compares answers from three distinct AI perspectives to provide a comprehensive understanding of any topic. Uses Gemini with grounded search, deep analysis, and creative explanation.",
+  "requestFramePermissions": []
+}
